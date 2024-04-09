@@ -31,6 +31,6 @@ class Solution {
             }    
         }
 
-        return time+1;
+        return time;
     }
 }
